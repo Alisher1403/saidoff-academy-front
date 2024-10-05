@@ -1,0 +1,193 @@
+{
+  "OVERVIEW_HEADER": {
+    "TITLE": "Saidoff\nAcademy",
+    "SUBTITLE": "Bugungi kelajak"
+  },
+
+  "OVERVIEW_CHOOSE": {
+    "TITLE": "nega bizni tanlashadi?",
+    "SUBTITLE": "Sababi bizda haqiqiy jamoaviy ahillik, bir biriga ko’maklashish va sifatli ta’limni his qilish imkoniga ega bo’lasiz",
+    "CHOOSE_LIST": [
+      {
+        "title": "Sifatli  TA’LIM",
+        "img": "/img/overview-choose-img1.png",
+        "description": "Bizning kurslarimiz eng so'nggi texnologiyalar va amaliy bilimlarga asoslangan, tajribali mutaxassislar tomonidan ishlab chiqilgan."
+      },
+      {
+        "title": "Moslashuvchan O’qish turi",
+        "img": "/img/overview-choose-img2.png",
+        "description": "Onlayn va offline o‘qish imkoniyati bilan siz o‘zingizga qulay bo‘lgan vaqtda va joyda o‘rganishingiz mumkin. Bizning platformamiz sizga har qanday vaqt va joydan ta’lim olish imkoniyatini taqdim etadi."
+      },
+      {
+        "title": "Eng so’ngi Texnologiyalar",
+        "img": "/img/overview-choose-img3.png",
+        "description": "Bizning kurslarimiz eng yangi texnologiyalar va dasturiy ta'minot bilan yangilanadi, bu esa sizga sohadagi dolzarb bilimlarni taqdim etadi. Siz eng so'nggi tendensiyalar va uslublar bilan tanishasiz."
+      }
+    ]
+  },
+
+  "OVERVIEW_FUTURE": {
+    "TITLE": "Kelajak - bu Biz",
+    "SUBTITLE": "Ushbu videoda sizning IT sohasida muvaffaqiyatli bo'lishingiz uchun taqdim etayotgan xizmatlarimiz, kurslarimiz va o‘qituvchilarimiz haqida batafsil ma'lumotlarni topasiz.",
+    "VIDEO": "/video/overview-future-video.mp4"
+  },
+
+  "OVERVIEW_JOBS": {
+    "TITLE": "Kelajak kasblari kaftingizda",
+    "SUBTITLE": "Ushbu IT sohasi kasblarini noldan eng yuqori darajagacha oʻrganasiz. Kelajagingizni bugundan boshlab yaratish uchun biz bilan birga bo‘ling!",
+    "JOBS_LIST": [
+      {
+        "href": "WebGraphicDesign",
+        "title": "Web & ux/ui designer",
+        "description": "Mutaxassislar bilan amaliy treninglar yordamida veb-sahifalarni kodlash va dizayn qilishni o‘rganing. Kursga yoziling yoki Veb-dizayn, UX va Vizual Dizayn bo‘yicha dasturlarga qatnashing.",
+        "icon": "FigmaIcon",
+        "darkIcon": "FigmaIconDark"
+      },
+      {
+        "href": "Frontend",
+        "title": "Frontend developer",
+        "description": "HTML & CSS, va JavaScript yordamida front-end veb-dasturlashni o‘rganing va har qanday ekran o‘lchamiga mos veb-saytlar yaratish ko‘nikmalarini rivojlantiring.",
+        "icon": "JavascriptIcon",
+        "darkIcon": "JavascriptIconDark"
+      },
+      {
+        "href": "Backend",
+        "title": "Backend dasturchi",
+        "description": "Orqa qismga ega bo‘lmagan ilovalar o‘z funksionalligi jihatidan cheklangan bo‘ladi. Shu sababli, \"to‘liq stek\" dasturchilarga talab yuqori. Bu soha JavaScript, Python, ma’lumotlar bazalari, Node.js, Express, terminal, NPM modullari, HTTP,",
+        "icon": "PythonIcon",
+        "darkIcon": "PythonIconDark"
+      },
+      {
+        "href": "Mobile",
+        "title": "Mobil dasturchi",
+        "description": "Ushbu bepul dastur ishlab chiqish kursi bilan mobil ilovalarni ishlab chiqishni oʻrganasiz. Android ilovalari va ularni yaratishda foydalaniladigan vositalar orqali mobil ilovalarni ishlab chiqish asoslarini bilib oling.  Amaliy tajriba orttiring va kurs oxirigacha mobil ilovani noldan yarating.",
+        "icon": "FlutterIcon",
+        "darkIcon": "FlutterIconDark"
+      }
+    ]
+  },
+
+  "OVERVIEW_PARTNERS": {
+    "TITLE": "Bizning Hamkorlarimiz",
+    "SUBTITLE": "Bizning hamkorlarimiz bizning muvaffaqiyatimizning asosiy qismidir; ularning ishonchli va professionalligi bizga yuqori sifatli xizmatlar va innovatsion yechimlar taqdim etadi.",
+    "PARTNERS_LIST": [
+      "/img/partner1.png",
+      "/img/partner2.png",
+      "/img/partner3.png",
+      "/img/partner4.png",
+      "/img/partner5.png",
+      "/img/partner6.png"
+    ]
+  },
+
+  "OVERVIEW_PROGRAMS": {
+    "TITLE": "Rivojlanish uchun Dasturlarimiz",
+    "SUBTITLE": "Bizning jamoamiz sizni qo'llab-quvvatlash va ilhomlantirish uchun doimo yoningizda. Sizning muvaffaqiyatingiz — bizning muvaffaqiyatimizdir. Bu dasturlar orqali birgalikda har bir muammoga yechim topib, har bir maqsadga erishish uchun ishlaymiz.",
+    "IN_DETAIL": "Batafsil",
+    "PROGRAMS_LIST": [
+      {
+        "title": "Guruh=Jamoa",
+        "description": "Bizning dasturlarimiz guruh va jamoa ishlarini rivojlantirishga qaratilgan, bu orqali siz birgalikda ishlash, muammolarni hal qilish va ijodiy yechimlarni ishlab chiqish ko‘nikmalarini oshirasiz.",
+        "icon": "/img/overview-program-img1.png"
+      },
+      {
+        "title": "Real Amaliyot",
+        "description": "Dasturlarimiz amaliy tajribaga asoslangan bo‘lib, siz haqiqiy loyihalarda ishtirok etasiz. Bu sizga nazariy bilimlarni amalda qo‘llash va real dunyo muammolarini hal qilishda yordam beradi.",
+        "icon": "/img/overview-program-img2.png"
+      },
+      {
+        "title": "6+3 Dastur",
+        "description": "Ushbu dastur 6 oylik intensiv o‘quv jarayonini va 3 oylik amaliyotni o‘z ichiga oladi. Bu sizga chuqur bilimlar va amaliy tajribalarni birlashtirish imkoniyatini taqdim etadi.",
+        "icon": "/img/overview-program-img3.png"
+      }
+    ]
+  },
+
+  "OVERVIEW_COMMENTS": {
+    "TITLE": "O’quvchilarimizdan izohlari",
+    "COMMENTS_LIST": [
+      {
+        "userName": "Qosimov Ayubxon",
+        "userImg": "/img/overview-comments-user1.png",
+        "role": "Flutter amaliyotchi",
+        "comment": "Saidoff IT kompaniyasi - innovatsion yechimlar va sifatli IT xizmatlari bilan ajralib turadi. Tajribali mutaxassislari mijozlarning ehtiyojlariga mos keladigan samarali va xavfsiz texnologiyalarni taqdim etadi. Saidoff - kelajakni texnologiyalar bilan shakllantiruvchi yetakchi kompaniya."
+      },
+      {
+        "userName": "Masudbek Mo'minov",
+        "userImg": "/img/overview-comments-user2.png",
+        "role": "Flutter amaliyotchi",
+        "comment": "Saidoff akademiyasi haqida aytishim mumkinki, bu yerda iliq muhit, yaxshi insonlar va yangi imkoniyatlar mavjud. Bu joy o'sish va rivojlanish uchun ajoyib joy."
+      },
+      {
+        "userName": "Abdulaziz Hikmatov",
+        "userImg": "/img/overview-comments-user3.png",
+        "role": "Backend amaliyotchi",
+        "comment": "Assalomu alaykum, Men Saidoff jamoasiga kelib qo'shilganimga uncha ko'p bo'lmadi, ammo shu qisqa vaqt ichida jamoadagi muhit va jamoa xodimlarining bir-biri bilan do'stona munosabiti va ahilligi menda juda yaxshi taasurot qoldirdi."
+      },
+      {
+        "userName": "Shamsiddin Abdurazzoqov",
+        "userImg": "/img/overview-comments-user4.png",
+        "role": "Backend amaliyotchi",
+        "comment": "Akademiya innovatsion yechimlar va zamonaviy texnologiyalar bilan shug'ullanadi. Kurslar doimiy ravishda yangilanib, texnologiyalardagi so'nggi trendlar bilan tanishish imkoniyatini beradi."
+      },
+      {
+        "userName": "Abdulaziz Ismoiljanov",
+        "userImg": "/img/overview-comments-user5.png",
+        "role": "Frontend amaliyotchi",
+        "comment": "Saidoff IT Akademiyasi amaliy tajribani nazorat qilishda juda muvaffaqiyatli. Darslar davomida biz haqiqiy loyihalarda ishlash imkoniyatiga ega bo'ldik, bu esa bilimlarimizni yanada mustahkamladi."
+      }
+    ]
+  },
+
+  "OVERVIEW_MENTOR": {
+    "TITLE": "Bizning Mentorlarimiz",
+    "SUBTITLE": "Tajribali mentorlarimiz tanlagan sohangizda 100% natijaga chiqishda yordam beradi",
+    "ALL_MENTORS_BTN": "Barcha Mentorlar",
+    "MENTORS_LIST": [
+      {
+        "name": "Oybek Tojiev",
+        "role": "Tijorat Direktori, Team Lead",
+        "img": "/img/mentor1.png"
+      },
+      {
+        "name": "Sarvinoz Saidova",
+        "role": "Academya MENEJERI",
+        "img": "/img/mentor2.png"
+      },
+      {
+        "name": "Asadulloh Zabixullayev",
+        "role": "GRAFIK DIZAYNER",
+        "role2": "MENTOR",
+        "img": "/img/mentor3.png"
+      },
+      {
+        "name": "Odina Ozodova",
+        "role": "WEB & UX/UI DIZAYNER",
+        "role2": "MENTOR",
+        "img": "/img/mentor4.png"
+      }
+    ]
+  },
+
+  "OVERVIEW_FAQ": {
+    "TITLE": "Savollaringiz bormi?",
+    "FAQ_LIST": [
+      {
+        "title": "Kursga qanday roʻyxatdan oʻtiladi?",
+        "description": "Murojaat qilish boʻlimiga oʻtib anketani toʻldiring va administrator darhol sizga bogʻlanadi yoki sahifa ostidagi raqamlarga qoʻngʻiroq qilib batafsil maʼlumot  olishingiz mumkin."
+      },
+      {
+        "title": "Shaxsiy kompyuterim boʻlishi kerakmi?",
+        "description": "Ko'pgina kurslarda amaliyot oʻtash uchun noutbuk kerak. Batafsil ma'lumot uchun kurs sahifasiga qarang."
+      },
+      {
+        "title": "Kurs oxirida sertifikat beriladimi?",
+        "description": "Saidoff Academy bilan kursni tamomlagan har bir talaba tamomlaganlik sertifikatini oladi. Profilingizga qo‘yishingiz va ijtimoiy tarmoqlarda baham ko‘rilishi mumkin bo‘ladi."
+      },
+      {
+        "title": "Nima uchun Saidoff Academyda oʻqishim kerak?",
+        "description": "Saidoff Academy quyidagilar bilan boshqa kurslarda ajralib turadi:\n- real amaliy loyihalar;\n- bilimni mustahkamlash uchun qoʻshimcha adabiyotlar bilan taʼminlaydi;\n- isteʼdodli talabalarni boshqa kompaniyalarga tavsiya qiladi."
+      }
+    ]
+  }
+}

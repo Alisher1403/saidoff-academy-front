@@ -1,0 +1,84 @@
+{
+  "NAVBAR": {
+    "LINKS_LIST": [
+      { "href": "/", "LABEL": "Asosiy" },
+      { "href": "/Courses", "LABEL": "Kurslar" },
+      { "href": "/Mentors", "LABEL": "Bizning Jamoa" },
+      { "href": "#Contact", "LABEL": "Bog’lanish" }
+    ],
+    "SOCIAL_MEDIA_LIST": [
+      {
+        "href": "https://www.facebook.com/p/Saidoffacademy-61558308431456/",
+        "icon": "Facebook"
+      },
+      {
+        "href": "https://www.instagram.com/saidoffacademy/",
+        "icon": "Instagram"
+      },
+      {
+        "href": "https://www.linkedin.com/company/saidoff-group",
+        "icon": "Linkedin"
+      },
+      { "href": "https://t.me/saidoffgrouppseo", "icon": "Telegram700" }
+    ],
+    "SOCIAL_MEDIA_NAVBAR_LIST": [
+      { "href": "https://t.me/saidoffgrouppseo", "icon": "Telegram700" },
+      {
+        "href": "https://www.facebook.com/p/Saidoffacademy-61558308431456/",
+        "icon": "Facebook700"
+      },
+      {
+        "href": "https://www.instagram.com/saidoffacademy/",
+        "icon": "Instagram700"
+      },
+      {
+        "href": "https://www.linkedin.com/company/saidoff-group",
+        "icon": "Linkedin700"
+      }
+    ]
+  },
+
+  "MODAL": {
+    "TITLE": "Biz bilan bog'lanish",
+    "SUBTITLE": "ozgina kuting va operatorlarimiz siz bilan albatta boglanishadi boglanishmasa yana qongiroq qiling",
+    "SUBMIT_BTN": "submit",
+    "SUBMITTED_BTN": "Yuborildi",
+    "SUCCESS_MESSAGE": "Ma'lumot yuborildi! Tez orada siz bilan bog'lanamiz.",
+    "USERNAME": {
+      "label": "Ismingiz",
+      "placeholder": "Ismingizni kiriting"
+    },
+    "PHONE": {
+      "label": "Telefon raqam",
+      "placeholder": "Telefon raqam"
+    },
+    "COURSE": {
+      "label": "Kurs tanlang",
+      "placeholder": "Kursni tanlang"
+    }
+  },
+
+  "FORM": {
+    "TITLE": "Har bir katta o'zgarish birinchi qadamdan boshlanadi.",
+    "SUBMIT_BTN": "Ariza Qoldirish",
+    "SUBMITTED_BTN": "Yuborildi",
+    "SUCCESS_MESSAGE": "Ma'lumot yuborildi! Tez orada siz bilan bog'lanamiz.",
+    "USERNAME": {
+      "label": "F.I.SH",
+      "placeholder": "Ismingizni kiriting"
+    },
+    "PHONE": {
+      "label": "Telefon raqamingiz"
+    },
+    "COURSE": {
+      "label": "Men shu Kasbdan boshlayman!",
+      "placeholder": "Kursni tanlang"
+    }
+  },
+
+  "FOOTER": {
+    "OUR_COURSES": "Kurslarimiz",
+    "CONTACT_US": "Biz bilan bog'lanish",
+    "COPYRIGHT": "2024.Copyright by Saidoff.group"
+  }
+}

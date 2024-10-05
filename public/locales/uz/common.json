@@ -1,0 +1,13 @@
+{
+  "CITY": "Toshkent shahri, Shayxontoxur tumani, Samarqand Darvoza.",
+  "LANDMARK": "Orientir: Samarqand Darvoza savdo markazi.",
+  "PHONE_NUMBER": "+998951850330",
+  "PHONE_NUMBER_FORMATTED": "+998 95 185 03 30",
+  "START_BTN": "Boshlash",
+  "COURSES_LIST": [
+    { "href": "Frontend", "label": "FrontEnd dasturlash" },
+    { "href": "WebGraphicDesign", "label": "Web & Grafik dizayn" },
+    { "href": "Backend", "label": "BackEnd dasturlash" },
+    { "href": "Mobile", "label": "Mobil dasturlash" }
+  ]
+}

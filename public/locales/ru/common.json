@@ -1,0 +1,13 @@
+{
+  "CITY": "Город Ташкент, Шайхонтохурский район, Самарканд Дарвоза.",
+  "LANDMARK": "Ориентир: Торговый центр Самарканд Дарвоза.",
+  "PHONE_NUMBER": "+998951850330",
+  "PHONE_NUMBER_FORMATTED": "+998 95 185 03 30",
+  "START_BTN": "Начать",
+  "COURSES_LIST": [
+    { "href": "Frontend", "label": "FrontEnd программирование" },
+    { "href": "WebGraphicDesign", "label": "Веб и графический дизайн" },
+    { "href": "Backend", "label": "BackEnd программирование" },
+    { "href": "Mobile", "label": "Мобильное программирование" }
+  ]
+}

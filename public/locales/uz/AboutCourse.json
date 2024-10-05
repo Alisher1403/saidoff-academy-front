@@ -1,0 +1,704 @@
+{
+  "ABOUT_COURSE_HEADER": {
+    "SUBTITLE": "Tajribangizni san’atga aylantiring",
+    "WebGraphicDesign": {
+      "TITLE": "Web & Grafik dizayn",
+      "SUBTITLE": "Tajribangizni san’atga aylantiring"
+    },
+    "Frontend": {
+      "TITLE": "Frontend Dasturlash",
+      "SUBTITLE": "Tajribangizni san’atga aylantiring"
+    },
+    "Backend": {
+      "TITLE": "Backend Dasturlash",
+      "SUBTITLE": "Tajribangizni san’atga aylantiring"
+    },
+    "Mobile": {
+      "TITLE": "Mobil Dasturlash",
+      "SUBTITLE": "Tajribangizni san’atga aylantiring"
+    }
+  },
+
+  "ABOUT_COURSE_FIELD": {
+    "TITLE": "Bu soha kimlar uchun . . .",
+    "1": {
+      "FIELDS_LIST": [
+        {
+          "TITLE": "San'atkor Dizaynerlar uchun",
+          "DESCRIPTION": "Veb-saytlar, brendlar, va vizual loyihalarni san’at nuqtai nazaridan yaratish va ularning interaktivligi bilan ishlashni xohlagan ijodkor dizaynerlar uchun."
+        },
+        {
+          "TITLE": "Biznes Rivojlantiruvchilar uchun",
+          "DESCRIPTION": "O‘z kompaniyasi yoki brendi uchun ko‘rinishini ko‘rkamlashtirish va mijozlar uchun jalb etuvchi dizayn yaratishni maqsad qilgan biznes egalari uchun."
+        },
+        {
+          "TITLE": "Yosh Talabalar uchun",
+          "DESCRIPTION": "Ijodiy va texnik bilimlarni rivojlantirishni xohlab, yangi kasbga o‘tish va dizayn bo‘yicha ko‘nikmalarni o‘rganishni maqsad qilgan yoshlar uchun."
+        },
+        {
+          "TITLE": "Texnologiya Ishqizbozlari uchun",
+          "DESCRIPTION": "Veb-dizayn va foydalanuvchi interfeyslarini yaratish bilan qiziqadigan hamda texnologiyaning eng yangi tendensiyalarini o‘rganishga intilganlar uchun."
+        }
+      ]
+    },
+    "Frontend": {
+      "FIELDS_LIST": [
+        {
+          "TITLE": "Foydalanuvchi Dizaynerlari uchun",
+          "DESCRIPTION": "Veb va mobil ilovalarda foydalanuvchilarga qiziqarli vizual va interaktiv tajribalar yaratishni xohlagan ijodkorlar uchun."
+        },
+        {
+          "TITLE": "Onlayn Biznes Egalari uchun",
+          "DESCRIPTION": "O‘z biznesining onlayn mavjudligini yaxshilash va foydalanuvchilarga qulay interfeys yaratish orqali mijozlar bilan bog‘lanishni yaxshilashni istagan tadbirkorlar uchun."
+        },
+        {
+          "TITLE": "Kodlashni O‘rganayotgan Yoshlar uchun",
+          "DESCRIPTION": "Frontend texnologiyalari, jumladan, HTML, CSS va JavaScript bo‘yicha yangi ko‘nikmalarni o‘rganish va dasturlash kasbiga kirishni istaganlar uchun."
+        },
+        {
+          "TITLE": "Web Texnologiyalariga Qiziqqanlar uchun",
+          "DESCRIPTION": "Web va mobil ilovalarni yaxshilash, zamonaviy frontend texnologiyalarini o‘rganish va o‘z imkoniyatlarini kengaytirishni xohlovchilar uchun."
+        }
+      ]
+    },
+    "Backend": {
+      "FIELDS_LIST": [
+        {
+          "TITLE": "Server Dasturchilar uchun",
+          "DESCRIPTION": "Dasturiy loyihalarning texnik qismida kreativ ishlashni va backend tizimlarini yaratishni o‘rganishni xohlovchi ijodkor dasturchilar uchun."
+        },
+        {
+          "TITLE": "Biznes Tizimlarni Rivojlantiruvchilar uchun",
+          "DESCRIPTION": "O‘z biznesining server qismi va ma'lumotlar bazalarini boshqarish orqali mijozlar tajribasini yaxshilashni maqsad qilgan tadbirkorlar uchun."
+        },
+        {
+          "TITLE": "Backend Dasturlashni O‘rganayotgan Yoshlar uchun",
+          "DESCRIPTION": "Backend texnologiyalari va server tomon dasturlashni o‘rganishga qiziqadigan, yangi kasbga o‘tishni istagan yoshlar uchun."
+        },
+        {
+          "TITLE": "Texnik Bilimlarni Chuqurlashtirishni Xohlovchilar uchun",
+          "DESCRIPTION": "Serverlar, API'lar va ma'lumotlar bazalari bilan ishlashni o‘rganish va zamonaviy backend texnologiyalari haqida chuqur bilim olishni xohlagan texnologiya ixlosmandlari uchun."
+        }
+      ]
+    },
+    "Mobile": {
+      "FIELDS_LIST": [
+        {
+          "TITLE": "Mobil Ilova Dizaynerlari uchun",
+          "DESCRIPTION": "Mobil ilovalarning foydalanuvchilar uchun qiziqarli va interaktiv bo‘lishini xohlovchi, dizayn va dasturlashda ijod qilishni xohlagan ijodkorlar uchun."
+        },
+        {
+          "TITLE": "Mobil Biznes Egalari uchun",
+          "DESCRIPTION": "Mobil ilovalar orqali o‘z biznesini rivojlantirish va mijozlar bilan qulay bog‘lanish imkoniyatlarini yaxshilashni istagan tadbirkorlar uchun."
+        },
+        {
+          "TITLE": "Mobil Dasturlashni O‘rganayotgan Yoshlar uchun",
+          "DESCRIPTION": "Mobil dasturlash sohasiga kirishni va mobil ilovalar yaratish uchun zarur bo‘lgan ko‘nikmalarni egallashni xohlagan yosh dasturchilar uchun."
+        },
+        {
+          "TITLE": "Texnologiya Trendlariga Qiziqqanlar uchun",
+          "DESCRIPTION": "Mobil texnologiyalar va yangi mobil dasturlarni yaratishga qiziqadigan va eng yangi tendensiyalarni o‘rganishga intilganlar uchun."
+        }
+      ]
+    }
+  },
+
+  "ABOUT_COURSE_PLAN": {
+    "COURSE_PLAN": "Kurs rejasi",
+    "MODULE": "modul",
+    "MONTHS": "oy",
+    "THEORY": "nazariya",
+    "PRACTICE": "amaliyot",
+    "WebGraphicDesign": {
+      "PLAN": "8",
+      "THEORY": {
+        "DURATION": 6,
+        "DESCRIPTION": "Grafik va veb dizayn asoslari, UX/UI dizayn tamoyillari, Foydalanuvchi tadqiqotlari, dizayn jarayonlari, rang va kompozitsiya nazariyasi, shuningdek, interaktiv va moslashuvchan dizayn metodlari o‘rgatiladi."
+      },
+      "PRACTICE": {
+        "DURATION": 2,
+        "DESCRIPTION": "Amaliy loyihalar orqali web va grafik dizaynlarni yaratish, dizayn auditlari, foydalanuvchi testlari o‘tkazish, jamoada ishlash va portfolio uchun loyihalar tayyorlash imkoniyati beriladi."
+      }
+    },
+    "Frontend": {
+      "PLAN": "9",
+      "THEORY": {
+        "DURATION": 6,
+        "DESCRIPTION": "Frontend dasturlash asoslari, HTML, CSS, JavaScript kabi texnologiyalar bilan tanishuv, responsive dizayn, komponentlar asosida tizimlar yaratish, API bilan ishlash va veb dasturlashda asosiy tamoyillar o‘rgatiladi."
+      },
+      "PRACTICE": {
+        "DURATION": 3,
+        "DESCRIPTION": "Frontend loyihalarni yaratish, real loyiha muhitida kodlash amaliyoti, dizaynlarni kodlash va foydalanuvchilar bilan ishlash, portfolio uchun tayyor loyihalar yaratish imkoniyati."
+      }
+    },
+    "Backend": {
+      "PLAN": "9",
+      "THEORY": {
+        "DURATION": 6,
+        "DESCRIPTION": "Backend dasturlashning asosiy tushunchalari, server tomonida ishlov berish, ma'lumotlar bazasi bilan ishlash, autentifikatsiya, API yaratish, xavfsizlik va backend texnologiyalari bilan tanishuv o‘rgatiladi."
+      },
+      "PRACTICE": {
+        "DURATION": 3,
+        "DESCRIPTION": "Backend amaliyotlari, ma'lumotlar bazalari bilan integratsiya qilish, serverlar bilan ishlash, API yaratish, jamoada backend tizimlarni ishlab chiqish va portfolio uchun loyihalar yaratish."
+      }
+    },
+    "Mobile": {
+      "PLAN": "9",
+      "THEORY": {
+        "DURATION": 6,
+        "DESCRIPTION": "Mobil ilovalarni yaratish asoslari, platformaga xos dasturlash (Android va iOS), mobil ilovalarda UX/UI tamoyillari, reaktiv va moslashuvchan dizayn, ma'lumotlar bilan ishlash, va mobil ilovalar xavfsizligi o‘rgatiladi."
+      },
+      "PRACTICE": {
+        "DURATION": 3,
+        "DESCRIPTION": "Mobil ilovalarni amaliy ishlab chiqish, haqiqiy mobil ilova yaratish, test qilish va optimallashtirish jarayonlari, jamoada ishlash va portfolio uchun mobil loyihalar yaratish imkoniyati."
+      }
+    }
+  },
+
+  "ABOUT_COURSE_ACCORDION": {
+    "LESSON": "dars",
+    "Frontend": {
+      "ACCORDION_CONTENT": [
+        {
+          "TITLE": "01 - modul",
+          "CONTENT": [
+            "8 oy ichida nimalarni o’rganadigan mavzular: webStorm download",
+            "Vebsaytlar - HTTP - Domenlar - Hosting - DNS - Brauzerlar - Fayl turlari - Dasturchilar ishlatadigan dasturlar - Web dasturlash uchun kerakli dasturlar - Internet haqida",
+            "HTML ga kirish",
+            "HTML Colors",
+            "HTML Links HTML Images HTML Favicon HTML Table",
+            "HTML Lists HTML Block and Inline Elements",
+            "HTML class Attribute HTML identificator Attribute",
+            "HTML Forms",
+            "HTML Multimedia",
+            "CSS Tutorial",
+            "CSS Backgrounds",
+            "Imtihon"
+          ]
+        },
+        {
+          "TITLE": "02 - modul",
+          "CONTENT": [
+            "CSS Borders",
+            "CSS Margins CSS Padding",
+            "CSS Outline",
+            "CSS Text",
+            "CSS Fonts",
+            "CSS Icons",
+            "CSS Links CSS Lists CSS Tables",
+            "modul2_8",
+            "CSS Layout",
+            "CSS Navigation Bar CSS Dropdowns CSS Image Gallery CSS Image Sprites CSS Attribute Selectors",
+            "CSS Colors",
+            "Imtihon"
+          ]
+        },
+        {
+          "TITLE": "03 - modul",
+          "CONTENT": [
+            "CSS Gradients",
+            "CSS Shadow Effects CSS Text Effects CSS Web Fonts",
+            "CSS 2D Transforms CSS 3D Transforms CSS Transitions CSS Animations",
+            "CSS Tooltip CSS Buttons CSS Pagination Examples CSS Box Sizing",
+            "CSS Flexbox",
+            "CSS Responsive",
+            "CSS Grid",
+            "'SASS download CSS SASS tutorial'",
+            "Scss da respansiv qilish",
+            "Git bilan ishlash Verselga joylash Ahost da damen olish",
+            "Git Jamoa bo’lib ishlash",
+            "Imtihon"
+          ]
+        },
+        {
+          "TITLE": "04 - modul",
+          "CONTENT": [
+            "Bootstrap 5 Tutorial",
+            "Bootstrap 5 Containers and Grids",
+            "Bootstrap 5 Colors, Tables, Images, Jumbotron, Alerts",
+            "Bootstrap 5 Buttons",
+            "Bootstrap 5 Badges, Progress Bars, Spinners, Pagination, List Groups",
+            "Bootstrap 5 Collapse, Navs, Navbars , Carousel",
+            "Bootstrap 5 Carousel, Modal , Tooltip",
+            "Bootstrap 5 Dark Mode Bootstrap 5 Flex",
+            "Bootstrap 5 Forms",
+            "Bootstrap 5 Range Bootstrap 5 Grid",
+            "Figma lending page bootstrapda yasash https://www.figma.com/file/E6pmBHiGj6MqqT3kF0TVrh/School-landing-page-(Community)?node-id=0-1&t=pbjcLghdhcL9bqOA-0",
+            "Imtihon"
+          ]
+        },
+        {
+          "TITLE": "05 - modul",
+          "CONTENT": [
+            "JavaScript Tutorial",
+            "JavaScript Variables, Let, Const, Operators, Arithmetic",
+            "Типы данных JavaScript, функции, объекты, события",
+            "JavaScript Data Types, Functions, Objects, Events",
+            "JavaScript Strings, String Method, String Search, Template Strings",
+            "JavaScript Numbers, BigInt, Number Methods, Number Properties",
+            "JavaScript Arrays, Array Methods, Array Search, Sorting Arrays, Array Iteration Array Const",
+            "JavaScript Date Objects, Date Formats, Get Date Methods, Set Date Methods",
+            "JavaScript Math Object, Random, Booleans",
+            "JavaScript if, else, and else if , Switch Statement",
+            "Amaliy mashg’ulot.",
+            "JavaScript For Loop, For In, For Of",
+            "Imtihon"
+          ]
+        },
+        {
+          "TITLE": "06 - modul",
+          "CONTENT": [
+            "Reactga Kirish, React O'rnatish",
+            "Reactga Kirish, React O'rnatish",
+            "UseState hooks, UseState Ip bilan ishlash",
+            "UseEffect hooks, UseRef hooks, Events (Hodisalar ), Onchange holat",
+            "Maʼlumotlarni list ko'rinishda chiqarish, Delete items, React fragment, Reset input, Onsubmit",
+            "Uuidv4, Add Event, Select & Options, Loyihalarda fayllar strukturasi",
+            "Next js o’rnatish, Fayllar strukturasi, Image va Link haqida malumot",
+            "Nextda formdagi malumotni telegiram botga yuborish",
+            "Nextda 3 ta tilda tarjima qilish",
+            "Get started with Tailwind CSS",
+            "Spacing, Sizing, Typography Backgrounds, Borders, Effects, Filters taywindCSS ni tugatish",
+            "Imtihon"
+          ]
+        },
+        {
+          "TITLE": "07 - modul:",
+          "CONTENT": ["darsgacha real loyihalarda amaliyot"]
+        }
+      ]
+    },
+    "Backend": {
+      "ACCORDION_CONTENT": [
+        {
+          "TITLE": "01 - modul: Python asoslari",
+          "CONTENT": [
+            "Kirish. Python dasturlash tilining sintaksisi, berilganlar turlari,  o‘zgaruvchilar va operatorlar",
+            "Python dasturlash tilining malumot turlari",
+            "Python dasturlash tilining shart operatorlari.",
+            "Takrorlash va o‘tish operatorlari.",
+            "Python dasturlash tilining funksiyalari.",
+            "Python dasturlash tilida funksiyalar.",
+            "Amaliyot",
+            "String va uning metodlari.",
+            "Ro'yhatlar va ularning metodlari",
+            "Tuple, set va ularning metodlari.",
+            "Lug‘atlar va ularning metodlari.",
+            "Amaliyot va Oraliq nazorat"
+          ]
+        },
+        {
+          "TITLE": "02 - modul: Python OOP",
+          "CONTENT": [
+            "OOP kirish.",
+            "Metodlar.",
+            "Vorislik",
+            "Encapsulation",
+            "Polimorfizm",
+            "Abstraction",
+            "Moduls and packages",
+            "Exceptions and handling.",
+            "Fayllar bilan ishash",
+            "Iterator, Generators and Decorators",
+            "Threading, asyncio package and Working with API",
+            "Amaliyot va Oraliq nazorat"
+          ]
+        },
+        {
+          "TITLE": "03 - modul: Malomotlar bazasi",
+          "CONTENT": [
+            "PostgreSQL MBBT",
+            "Data types and Constraints",
+            "SQL so’rovlar tili, DDL, DML buyruqlari",
+            "DSL, TCL, Build Structure",
+            "Opertorlar, PostgreSQL fundamentals",
+            "Joining Multiple Tables",
+            "Extra fundamentals for table",
+            "Viewlar bilan ishlash",
+            "Funksiyalar bilan ishlash",
+            "Triggers, Lock and Privileges",
+            "Postgresql Advanced Features",
+            "Kurs ishi va Oraliq nazorat"
+          ]
+        },
+        {
+          "TITLE": "04 - modul: Qo'shimcha texnologiyalar",
+          "CONTENT": [
+            "Telegram bot, pip, .env, venv, Buttons",
+            "Davlat, MemoryStorage, ma'lumotlar bazasiga ulanish",
+            "Webhuklar va Telegram botlari",
+            "Task Queueing, RabbitMQ va Message Brokerlari uchun selderey",
+            "SQLAlchemy ORM",
+            "Kengaytirilgan SQL Alchemy va aloqalar",
+            "Sinov",
+            "Git, github/gitlab",
+            "Docker-ga kirish",
+            "Docker Compose asoslari",
+            "Komponentlarni integratsiyalash va yakuniy loyiha",
+            "Kurs ishi va Oraliq nazorati"
+          ]
+        },
+        {
+          "TITLE": "05 - modul: Django Freymvorki",
+          "CONTENT": [
+            "Django bilan veb-ishlab chiqishga kirish",
+            "Asosiy ko'rinishlar va shablonlarni yaratish",
+            "Modellar va ma'lumotlar bazasi integratsiyasi",
+            "Django andozalari va shablon tili",
+            "foydalanuvchi kiritish uchun Django shakllari",
+            "Sinfga asoslangan ko'rinishlar va miksinlar, Django ORM filtrlari",
+            "Autentifikatsiya va foydalanuvchi boshqaruvi, Maxsus Middleware va Middleware Stack",
+            "Autentifikatsiya va foydalanuvchilarni boshqarish, maxsus o'rta dastur va o'rta dastur stack",
+            "Shablon teglari va filtrlari",
+            "Django administratorini sozlash",
+            "Joylashtirish va eng yaxshi amaliyotlar",
+            "Kurs ishi va Oraliq nazorat"
+          ]
+        },
+        {
+          "TITLE": "06 - modul: Django Rest Freymvorki",
+          "CONTENT": [
+            "REST va API ishlanmalariga kirish",
+            "Funktsiyaga asoslangan ko'rinishlar va sinfga asoslangan ko'rinishlardan foydalangan holda API yaratish",
+            "DRF-da autentifikatsiya va o'rnatish ruxsatnomalari",
+            "Ko'rishlar to'plami, miksinlar va marshrutizatorlar",
+            "Xatolarni qayta ishlash va tekshirish, DRF yordamida maxsus ruxsatni yaratish",
+            "Uchinchi tomon xizmatlari bilan autentifikatsiya",
+            "DRF ilovalarini o'rnatish",
+            "Docker yordamida konteynerlashtirish",
+            "API hujjatlari va uzluksiz integratsiya",
+            "Django kanallari bilan real vaqtda aloqa",
+            "Sinov va sinovga asoslangan ishlab chiqish (TDD), Autentifikatsiya, ruxsatlar va ko'rinishlarni sinovdan o'tkazish",
+            "Kurs ishi va Oraliq nazorat"
+          ]
+        }
+      ]
+    },
+    "Mobile": {
+      "ACCORDION_CONTENT": [
+        {
+          "TITLE": "01 - modul: Dart Basics",
+          "CONTENT": [
+            "Kirish tanishish, Dasturlashga kirish turlari",
+            "My first dart code, Izohlar, Identifikatorlar, Kalit so'zlar, O'zgaruvchilar, Ma'lumot turlari",
+            "Nullable va non-nullable, Konstantalar, Dynamic va Var, Operatorlar",
+            "If else, Switch Case",
+            "While sikli, Do-while sikli, For sikli, Ichma-ich sikllar, Yorliq",
+            "List, Set",
+            "Map, Funksiya",
+            "OOP",
+            "OOP",
+            "Class va obyektlar, Model qilish",
+            "Konstruktor",
+            "Modul imtihon"
+          ]
+        },
+        {
+          "TITLE": "02 - modul: Dart Core",
+          "CONTENT": [
+            "Getter va Setter",
+            "Object class, enum, mixin",
+            "Meros olish",
+            "Abstraksiya",
+            "Polimorfizm",
+            "Generiklar, Kengaytma",
+            "Istisnolar",
+            "Inkapsulatsiya",
+            "Kelajak, Stream",
+            "StreamController",
+            "Modul imtihoni"
+          ]
+        },
+        {
+          "TITLE": "03 - modul: Flutter sodda UI elementlari",
+          "CONTENT": [
+            "Cupertino widgets",
+            "Material component widgets",
+            "Text widgets",
+            "Tugmalar",
+            "Aloqa",
+            "Tutib olish",
+            "AppBar",
+            "Tanlash",
+            "Matn kiritish",
+            "Animatsiya",
+            "Resurslar, rasmlar va ikonalar widgetlari",
+            "Modul imtihoni"
+          ]
+        },
+        {
+          "TITLE": "04 - modul: Flutter murakkab UI elementlari",
+          "CONTENT": [
+            "Kiritish widgetlari",
+            "Asosiy widgetlar",
+            "DragTarget",
+            "Dismissible",
+            "Layout widgetlari",
+            "Rasmlar va effekt widgetlari",
+            "Skrollash widgetlari",
+            "Styling widgetlari",
+            "Praktik loyiha",
+            "Flutterda moslashuvchan va javob beruvchi dizayn",
+            "Resurslar va rasmlarni qo'shish, Navigator",
+            "Modul imtihoni"
+          ]
+        },
+        {
+          "TITLE": "05 - modul: Paketlar, til, routing",
+          "CONTENT": [
+            "App paketlari",
+            "App paketlari",
+            "App localization Flutter",
+            "flutter go route",
+            "flutter auto route",
+            "flutter routing",
+            "flutter easy_localization",
+            "flutter flutter_localization",
+            "Ma'lumotlar bazasi",
+            "ResetfulApi",
+            "github",
+            "Modul imtihoni"
+          ]
+        },
+        {
+          "TITLE": "05 - modul: Arxitektura, Testing, Clone Project",
+          "CONTENT": [
+            "provider",
+            "riverpod",
+            "cubit",
+            "bloc",
+            "MVC",
+            "MVVM",
+            "MVP",
+            "Clean architecture",
+            "Widget testing",
+            "Clone project",
+            "Clone project",
+            "Modul imtihoni"
+          ]
+        }
+      ]
+    },
+    "WebGraphicDesign": {
+      "ACCORDION_CONTENT": [
+        {
+          "TITLE": "1-modul. Figma va Web dizayn asoslari",
+          "CONTENT": [
+            "Figma dastur asoslari",
+            "Figuralar yaratish va Pero bilan ishlash",
+            "Maskalar bilan ishlash va Protatiplar",
+            "Figmada Animatsiyalar va Parallax effekt",
+            "Web dizaynda Ranglar psixologiyasi",
+            "Componentlar bilan ishlash",
+            "Bootstrap va Layout Gridlar bilan ishlash",
+            "Modul Amaliyot imtihoni"
+          ]
+        },
+        {
+          "TITLE": "2-modul. UX/UI va mobil ilova dizaynlari",
+          "CONTENT": [
+            "UX/UI dizayn qoidasi va asoslari",
+            "Ui Kitlar va Auto layout",
+            "Sign in/Sign up va Log out qismlar",
+            "Homepage va Hamburger Menu qismalar",
+            "Onboard design",
+            "Mobil ilova interfacini yakunlash",
+            "Shaxsiy web design prototip yaratish",
+            "Modul Amaliyot imtihoni"
+          ]
+        },
+        {
+          "TITLE": "3-modul. Photoshop va grafik asoslari",
+          "CONTENT": [
+            "Photoshop dasturi bilan ishlash",
+            "Maska va pop out effect",
+            "Brush tool va Soyalar bilan ishlash",
+            "Yorug'lik sozlamalari va monipulatsiya",
+            "Perspektiv sur'atlarni tahrirlash",
+            "Glow effectlar va Posterlar",
+            "Blurlar va Gaussian Blur",
+            "Modul Amaliyot imtihoni"
+          ]
+        },
+        {
+          "TITLE": "4-modul. Illustrator va Vektor asoslari",
+          "CONTENT": [
+            "Illustrator bilan tanishish",
+            "Artboard tool va Maskalar",
+            "Illustratorda Pen tool bilan ishlash",
+            "Logotip qoidalari va Golden ratio",
+            "Shape builder tool va shakillarni birlashtirish",
+            "Illustratorning \"Фишка\" lari",
+            "Logobooklar yaratish asoslari",
+            "Modul Amaliyot imtihoni"
+          ]
+        },
+        {
+          "TITLE": "5-modul. Corel Draw va Qadoq dizayn asoslari",
+          "CONTENT": [
+            "Corel Drawni tanishtirish va asosiy interfeys",
+            "Vektor Grafikani yaratish va tahrirlash",
+            "Ranglar nazariyasi va Gradientlar",
+            "Tipografik uslublar va matnni vektor obyektlarga aylantirish",
+            "Rasmlarni integratsiya qilish",
+            "Qadoq dizayn asosiy prinsiplari",
+            "Qadoq dizayni uchun Dizayn jarayoni",
+            "Modul Amaliyot imtihoni"
+          ]
+        }
+      ]
+    }
+  },
+
+  "ABOUT_COURSE_COMPUTER": {
+    "TITLE": [
+      "Sizga o‘quv jarayonida kerak bo‘ladigan Kompyuter Sozlama",
+      "Ro'yxati"
+    ],
+    "RAM": "Protsessor",
+    "CPU": "Operativ xotira",
+    "GPU": "Videokarta",
+    "DISPLAY": "Ekran",
+    "WebGraphicDesign": {
+      "SETTINGS_LIST": [
+        {
+          "TITLE": "Protsessor",
+          "DESCRIPTION": "Intel Core i5 10"
+        },
+        {
+          "TITLE": "Operativ xotira",
+          "DESCRIPTION": "8/16 GB DDR4"
+        },
+        {
+          "TITLE": "Videokarta",
+          "DESCRIPTION": "GTX 1650 4 GB"
+        },
+        {
+          "TITLE": "Ekran",
+          "DESCRIPTION": "1920 x 1080 FullHD 144 GHz"
+        }
+      ]
+    },
+    "Frontend": {
+      "SETTINGS_LIST": [
+        {
+          "TITLE": "Protsessor",
+          "DESCRIPTION": "Intel Core i5 11"
+        },
+        {
+          "TITLE": "Operativ xotira",
+          "DESCRIPTION": "8/16 GB DDR4"
+        },
+        {
+          "TITLE": "Videokarta",
+          "DESCRIPTION": "GTX 1650 4 GB"
+        },
+        {
+          "TITLE": "Ekran",
+          "DESCRIPTION": "1920 x 1080 FullHD 144 GHz"
+        }
+      ]
+    },
+    "Backend": {
+      "SETTINGS_LIST": [
+        {
+          "TITLE": "Protsessor",
+          "DESCRIPTION": "Intel Core i5 yoki AMD Ryzen 5"
+        },
+        {
+          "TITLE": "Operativ xotira",
+          "DESCRIPTION": "8 GB DDR4"
+        },
+        {
+          "TITLE": "Saqlash xotirasi",
+          "DESCRIPTION": "512 GB SSD yoki ko'proq"
+        },
+        {
+          "TITLE": "Ekran",
+          "DESCRIPTION": "1920 x 1080 FullHD"
+        }
+      ]
+    },
+    "Mobile": {
+      "SETTINGS_LIST": [
+        {
+          "TITLE": "Protsessor",
+          "DESCRIPTION": "Intel Core i5 yoki Mac uchun M1"
+        },
+        {
+          "TITLE": "Operativ xotira",
+          "DESCRIPTION": "8/16 GB DDR4"
+        },
+        {
+          "TITLE": "Saqlash xotirasi",
+          "DESCRIPTION": "256 GB SSD yoki ko'proq"
+        },
+        {
+          "TITLE": "Ekran",
+          "DESCRIPTION": "1920 x 1080 FullHD"
+        }
+      ]
+    }
+  },
+
+  "ABOUT_COURSE_MENTOR": {
+    "TITLE": "MENTORIMIZ HAQIDA . . .",
+    "RESULT": "Natija",
+    "WORKED_TITLE": "Ishlagan joylari",
+    "WebGraphicDesign": {
+      "IMAGE": "/img/mentor3.png",
+      "EXPERIENCE_LIST": [
+        "Dizayn sohasida 2+ yillik tajribaga ega mutaxassis",
+        "Kursga doir 100+ dan ortiq videodarslar ishlab chiqgan",
+        "Shu kungacha 10+ dan ortiq loyihalarda ishtirok etgan",
+        "Middle darajadagi Freelancer"
+      ],
+      "WORKED_LIST": [
+        "/img/asat-work1.svg",
+        "/img/asat-work2.svg",
+        "/img/asat-work3.svg",
+        "/img/asat-work4.svg"
+      ]
+    },
+    "Frontend": {
+      "IMAGE": "/img/mentor1.png",
+      "EXPERIENCE_LIST": [
+        "Frontend rivojlantirish sohasida 3+ yillik tajribaga ega mutaxassis",
+        "20+ loyihalarda qatnashgan",
+        "50+ shogirdni tarbiyalagan"
+      ],
+      "WORKED_LIST": [
+        "/img/oybek-work1.svg",
+        "/img/oybek-work2.svg",
+        "/img/oybek-work3.svg",
+        "/img/oybek-work4.svg"
+      ]
+    },
+    "Backend": {
+      "IMAGE": "/img/mentor9.png",
+      "EXPERIENCE_LIST": [
+        "Backend rivojlantirish sohasida 3+ yillik tajribaga ega mutaxassis",
+        "20+ loyihalarda ishtirok etgan",
+        "100+ shogirdni yetishtirgan"
+      ],
+      "WORKED_LIST": [
+        "/img/alimardon-work1.svg",
+        "/img/alimardon-work2.svg",
+        "/img/alimardon-work3.svg"
+      ]
+    },
+    "Mobile": {
+      "IMAGE": "/img/mentor5.png",
+      "EXPERIENCE_LIST": [
+        "Mobil ilovalar rivojlantirish sohasida 2+ yillik tajribaga ega mutaxassis",
+        "5+ loyihalarda ishtirok etgan",
+        "30+ shogirdni tarbiyalagan"
+      ],
+      "WORKED_LIST": [
+        "/img/shaxzod-work1.svg",
+        "/img/shaxzod-work2.svg",
+        "/img/shaxzod-work3.svg"
+      ]
+    }
+  }
+}

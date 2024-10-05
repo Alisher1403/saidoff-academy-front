@@ -1,0 +1,65 @@
+{
+  "NAVBAR": {
+    "LINKS_LIST": [
+      {
+        "href": "/",
+        "LABEL": "Основной"
+      },
+      {
+        "href": "/Courses",
+        "LABEL": "Курсы"
+      },
+      {
+        "href": "/Mentors",
+        "LABEL": "Наша команда"
+      },
+      {
+        "href": "#Contact",
+        "LABEL": "Связатся"
+      }
+    ]
+  },
+
+  "MODAL": {
+    "TITLE": "Связаться с нами",
+    "SUBTITLE": "Подождите немного и наши операторы обязательно с вами свяжутся, если нет, позвоните еще раз",
+    "SUBMITTED_BTN": "Submit",
+    "SUCCESS_MESSAGE": "Информация отправлена! ",
+    "USERNAME": {
+      "label": "Ваше имя",
+      "placeholder": "Введите свое имя"
+    },
+    "PHONE": {
+      "label": "Номер телефона",
+      "placeholder": "Номер телефона"
+    },
+    "COURSE": {
+      "label": "Выбрать курс",
+      "placeholder": "Выбрать курс"
+    }
+  },
+
+  "FORM": {
+    "TITLE": "Любое большое изменение начинается с первого шага.",
+    "SUBMIT_BTN": "Подать заявку",
+    "SUBMITTED_BTN": "Отправлено",
+    "SUCCESS_MESSAGE": "Информация отправлена! ",
+    "USERNAME": {
+      "label": "Ф.И.О",
+      "placeholder": "Введите свое имя"
+    },
+    "PHONE": {
+      "label": "Ваш номер телефона"
+    },
+    "COURSE": {
+      "label": "Я начну с этой профессии!",
+      "placeholder": "Выбрать курс"
+    }
+  },
+
+  "FOOTER": {
+    "OUR_COURSES": "Нашы курсы",
+    "CONTACT_US": "Связаться с нами",
+    "COPYRIGHT": "2024.Copyright by Saidoff.group"
+  }
+}

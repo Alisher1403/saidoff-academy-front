@@ -1,0 +1,14 @@
+{
+  "OUR_PROGRAMS_HEADER": {
+    "TITLE": "Rivojlanish uchun Dasturlarimiz \n Kelajak poydevori"
+  },
+
+  "OUR_PROGRAMS_TEAM": {
+    "TITLE": "GURUH=JAMOA dasturi haqida",
+    "PROGRAMS_LIST": [
+      "Oʻzaro tajriba almashish: Jamoada har kimning oʻziga xos bilimlari va tajribalari bo'ladi. Guruhda ishlash bu bilim va tajribalarni bir-biringiz bilan bo'lishishga, o'zaro o'rganishga imkon beradi.",
+      "Muammolarni birgalikda hal qilish: Jamoa boʻlib oʻqish, qiyin vazifalarni birgalikda muhokama qilish va ularga yechim topishda yordam beradi. Har bir a'zo o'z yondashuvini qo'shadi, natijada yanada samarali va ijodiy yechimlar topiladi.",
+      "Tarmoq yaratish va ijtimoiy ko'mak: Guruhda ishlash davomida nafaqat bilim, balki kelajakdagi hamkorlar, doʻstlar yoki hamkasblarni topish imkoniyati ham ortadi. Bu tarmoq IT sohasida rivojlanish uchun katta yordam beradi."
+    ]
+  }
+}

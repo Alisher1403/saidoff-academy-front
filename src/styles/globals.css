@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*800*/
+@font-face {
+  font-family: "Montserrat-ExtraBold";
+  src: url("../../public/font/Montserrat-ExtraBold.ttf") format("opentype");
+}
+/*700*/
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("../../public/font/Montserrat-Bold.ttf") format("opentype");
+}
+/*500*/
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url("../../public/font/Montserrat-Medium.ttf") format("opentype");
+}
+/*400*/
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("../../public/font/Montserrat-Regular.ttf") format("opentype");
+}
+
+/*Europa*/ /*400*/
+@font-face {
+  font-family: "EuropaGroteskSH-Ex";
+  src: url("../../public/font/EuropaGroteskSH-Ex.otf") format("opentype");
+}
+/*Europa*/ /*250*/
+@font-face {
+  font-family: "EuropaGroteskSH-XLig";
+  src: url("../../public/font/EuropaGroteskSH-XLig.otf") format("opentype");
+}
+
+/*800*/
+h1 {
+  font-family: "Montserrat-ExtraBold", sans-serif !important;
+}
+/*700*/
+h2 {
+  font-family: "Montserrat-Bold", sans-serif !important;
+}
+/*500*/
+h3 {
+  font-family: "Montserrat-Medium", sans-serif !important;
+}
+/*400*/
+p {
+  font-family: "Montserrat-Regular", sans-serif !important;
+}
+
+/*Europa Grotesk */ /*400*/
+h4 {
+  font-family: "EuropaGroteskSH-Ex", sans-serif !important;
+}
+
+/*Europa Grotesk */ /*250*/
+h5 {
+  font-family: "EuropaGroteskSH-XLig", sans-serif !important;
+}
+
+.swiper-slide .active_box {
+  transition: transform 0.5s ease;
+  filter: grayscale(100%) !important;
+}
+
+.swiper-slide-active .active_box {
+  transition: transform 0.5s ease;
+  background:  radial-gradient(100% 102.77% at 0% 8.27%, rgba(255, 255, 255, 0.5) 0%, rgba(255, 139, 251, 0.5) 38.23%, rgba(126, 110, 232, 0.5) 92.55%) !important;
+  filter: grayscale(0) !important;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+

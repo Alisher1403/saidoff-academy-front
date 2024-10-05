@@ -1,0 +1,54 @@
+{
+  "Course_Header": {
+    "headerTitle": "Kelajak bugundan boshlanadi",
+    "subTitleCourse": "Kelajak kasblaridan birini tanlang",
+    "courseText": "Ushbu IT sohasi kasblarini noldan eng yuqori darajagacha oʻrganasiz. Kelajagingizni bugundan boshlab yaratish uchun biz bilan birga bo‘ling!",
+    "webDesignerTitle": "Web UX/UI dizayner",
+    "webDesignerText": "Mutaxassislar bilan amaliy treninglar yordamida veb-sahifalarni kodlash va dizayn qilisni o‘rganing. Kursga yoziling yoki Veb-dizayn, UX va Vizual Dizayn bo‘yicha dasturlarga qatnashing.",
+    "frontendTitle": "Frontend dasturchisi",
+    "frontendText": "HTML & CSS, va JavaScript yordamida front-end veb-dasturlashni o‘rganing va har qanday ekran o‘lchamiga mos veb-saytlar yaratish ko‘nikmalarini rivojlantiring.",
+    "gaphicDesignerTitle": "Grafik Dizayner",
+    "gaphicDesignerText": "Adobe dasturlarini o‘rganing, dizayn nazariyasiga kirishing va professional portfel yaratish uchun bizning keng qamrovli kurslarimiz va dasturlarimizdan foydalaning.",
+    "backendTitle": "Back-end dasturchisi",
+    "backendText": "Orqa qismga ega bo‘lmagan ilovalar o‘z funksionalligi jihatidan cheklangan bo‘ladi. Shu sababli, \"to‘liq stek\" dasturchilarga talab yuqori. Bu soha JavaScript, Python, ma’lumotlar bazalari, Node.js, Express, terminal, NPM modullari, HTTP, hosting kabi ko‘plab texnologiyalarni o‘z ichiga oladi. Bular faqat ro‘yxatning bir qismi, xolos.",
+    "mobileTitle": "Mobil dasturchi",
+    "mobileText": "Ushbu bepul dastur ishlab chiqish kursi bilan mobil ilovalarni ishlab chiqishni oʻrganasiz. Android ilovalari va ularni yaratishda foydalaniladigan vositalar orqali mobil ilovalarni ishlab chiqish asoslarini bilib oling.  Amaliy tajriba orttiring va kurs oxirigacha mobil ilovani noldan yarating.",
+    "marketingTitle": "Marketing",
+    "marketingText": "SEO strategiyalari, Google Ads & Analytics, va ijtimoiy media marketing orqali kuchli onlayn mavjudlik yarating va konversiyalarni oshiring. Amaliy mashg'ulotlar va sertifikat dasturlarida raqamli marketing sohasidagi yetakchi mutaxassislardan bilim oling."
+  },
+
+  "COURSES_JOBS": {
+    "TITLE": "Kelajak kasblari kaftingizda",
+    "SUBTITLE": "Ushbu IT sohasi kasblarini noldan eng yuqori darajagacha oʻrganasiz. Kelajagingizni bugundan boshlab yaratish uchun biz bilan birga bo‘ling!",
+    "JOBS_LIST": [
+      {
+        "href": "WebGraphicDesign",
+        "title": "Web & ux/ui designer",
+        "description": "Mutaxassislar bilan amaliy treninglar yordamida veb-sahifalarni kodlash va dizayn qilishni o‘rganing. Kursga yoziling yoki Veb-dizayn, UX va Vizual Dizayn bo‘yicha dasturlarga qatnashing.",
+        "icon": "FigmaIcon",
+        "darkIcon": "FigmaIconDark"
+      },
+      {
+        "href": "Frontend",
+        "title": "Frontend developer",
+        "description": "HTML & CSS, va JavaScript yordamida front-end veb-dasturlashni o‘rganing va har qanday ekran o‘lchamiga mos veb-saytlar yaratish ko‘nikmalarini rivojlantiring.",
+        "icon": "JavascriptIcon",
+        "darkIcon": "JavascriptIconDark"
+      },
+      {
+        "href": "Backend",
+        "title": "Backend dasturchi",
+        "description": "Orqa qismga ega bo‘lmagan ilovalar o‘z funksionalligi jihatidan cheklangan bo‘ladi. Shu sababli, \"to‘liq stek\" dasturchilarga talab yuqori. Bu soha JavaScript, Python, ma’lumotlar bazalari, Node.js, Express, terminal, NPM modullari, HTTP,",
+        "icon": "PythonIcon",
+        "darkIcon": "PythonIconDark"
+      },
+      {
+        "href": "Mobile",
+        "title": "Mobil dasturchi",
+        "description": "Ushbu bepul dastur ishlab chiqish kursi bilan mobil ilovalarni ishlab chiqishni oʻrganasiz. Android ilovalari va ularni yaratishda foydalaniladigan vositalar orqali mobil ilovalarni ishlab chiqish asoslarini bilib oling.  Amaliy tajriba orttiring va kurs oxirigacha mobil ilovani noldan yarating.",
+        "icon": "FlutterIcon",
+        "darkIcon": "FlutterIconDark"
+      }
+    ]
+  }
+}

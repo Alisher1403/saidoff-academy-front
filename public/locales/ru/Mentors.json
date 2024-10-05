@@ -1,0 +1,92 @@
+{
+  "MENTORS_HEADER": {
+    "TITLE": "Развивайтесь вместе с нашими опытными наставниками"
+  },
+
+  "OUR_MENTORS": {
+    "TITLE": "Наши опытные наставники",
+    "SUBTITLE": "Наши опытные наставники помогут вам достичь 100% результата в выбранной вами сфере.",
+    "MANAGER": "Менеджер",
+    "MENTORS_LIST": [
+      {
+        "img": "/img/mentor1.png",
+        "name": "Ойбек Тоджиев",
+        "role": "Коммерческий директор, руководитель группы"
+      },
+      {
+        "img": "/img/mentor2.png",
+        "name": "Саидова Сарвиноз",
+        "role": "Глава Академии"
+      },
+      {
+        "img": "/img/mentor3.png",
+        "name": "Асадуллах Забихуллаев",
+        "role": "ГРАФИЧЕСКОГО ДИЗАЙНЕР",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor4.png",
+        "name": "Одина Озадов",
+        "role": "ВЕБ И UX/UI ДИЗАЙНЕР",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor5.png",
+        "name": "Шахзод Бурханов",
+        "role": "МОБИЛЬНОЕ ПРОГРАММИРОВАНИЕ",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor6.png",
+        "name": "Давлат Салимов",
+        "role": "МОБИЛЬНОЕ ПРОГРАММИРОВАНИЕ",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor7.png",
+        "name": "Диорбек Ибрагимов",
+        "role": "ФРОНТЕНД",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor8.png",
+        "name": "Саидокилхан Эргашходжаев",
+        "role": "ФРОНТЕНД ПОМОЩНИК",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor9.png",
+        "name": "Бакиджонов Алимардон",
+        "role": "БЭКЭНД",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor10.png",
+        "name": "Джуманазаров Рустам",
+        "role": "БЭКЕНД ПОМОЩНИК",
+        "role2": "МЕНТОР"
+      },
+      {
+        "img": "/img/mentor11.png",
+        "name": "Бехруз Аликулов",
+        "role": "БЭКЕНД",
+        "role2": "ПОМОЩНИК МЕНТОР"
+      },
+      {
+        "img": "/img/mentor12.png",
+        "name": "Афзал Пулатов",
+        "role": "ВЕБ ДИЗАЙНЕР"
+      }
+    ]
+  },
+
+  "COMMUNITY_LIFE": {
+    "TITLE": "Общественная жизнь",
+    "COMMUNITY_LIST": [
+      "/Images/community_img/community_img1.png",
+      "/Images/community_img/community_img2.png",
+      "/Images/community_img/community_img3.png",
+      "/Images/community_img/community_img4.png"
+    ]
+  }
+}

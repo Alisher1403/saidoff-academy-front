@@ -1,0 +1,92 @@
+{
+  "MENTORS_HEADER": {
+    "TITLE": "Tajribali Mentorlarimiz bilan rivojlaning"
+  },
+
+  "OUR_MENTORS": {
+    "TITLE": "Bizning Tajribali Mentorlarimiz",
+    "SUBTITLE": "Tajribali mentorlarimiz tanlagan sohangizda 100% natijaga chiqishda yordam beradi",
+    "MANAGER": "Menejer",
+    "MENTORS_LIST": [
+      {
+        "img": "/img/mentor1.png",
+        "name": "Oybek Tojiev",
+        "role": "Tijorat Direktori, Team Lead"
+      },
+      {
+        "img": "/img/mentor2.png",
+        "name": "Saidova Sarvinoz",
+        "role": "LOYIHA MENEJERI"
+      },
+      {
+        "img": "/img/mentor3.png",
+        "name": "Asadulloh Zabixullayev",
+        "role": "GRAFIK DIZAYNER",
+        "role2": "MENTOR"
+      },
+      {
+        "img": "/img/mentor4.png",
+        "name": "Odina Ozodova",
+        "role": "WEB & UX/UI DIZAYNER",
+        "role2": "MENTOR"
+      },
+      {
+        "img": "/img/mentor5.png",
+        "name": "Shahzod Burxonov",
+        "role": "MOBIL DASTURLASH",
+        "role2": "MENTOR"
+      },
+      {
+        "img": "/img/mentor6.png",
+        "name": "Davlat Salimov",
+        "role": "MOBIL DASTURLASH",
+        "role2": "MENTOR"
+      },
+      {
+        "img": "/img/mentor7.png",
+        "name": "Diyorbek Ibrohimov",
+        "role": "FRONTEND",
+        "role2": "MENTOR"
+      },
+      {
+        "img": "/img/mentor8.png",
+        "name": "Saidoqilxon Ergashxo’jaev",
+        "role": "FRONTEND YORDAMCHI",
+        "role2": "MENTOR"
+      },
+      {
+        "img": "/img/mentor9.png",
+        "name": "Boqijonov Alimardon",
+        "role": "BACKEND",
+        "role2": "MENTOR"
+      },
+      {
+        "img": "/img/mentor10.png",
+        "name": "Rustam Jumanazarov",
+        "role": "BACKEND",
+        "role2": "YORDAMCHI"
+      },
+      {
+        "img": "/img/mentor11.png",
+        "name": "Behruz Aliqulov",
+        "role": "BACKEND",
+        "role2": "YORDAMCHI MENTOR"
+      },
+      {
+        "img": "/img/mentor12.png",
+        "name": "Afzal Pulatov",
+        "role": "WEB DIZAYNER"
+      }
+    ]
+  },
+
+  "COMMUNITY_LIFE": {
+    "TITLE": "Jamoa hayoti",
+    "COMMUNITY_LIST": [
+      "/Images/community_img/community_img1.png",
+      "/Images/community_img/community_img2.png",
+      "/Images/community_img/community_img3.png",
+      "/Images/community_img/community_img4.png"
+    ]
+  }
+}
